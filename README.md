@@ -1,12 +1,7 @@
 
 ## Aspiring web developer & desktop linux enthusiast.
 
-:heart:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-:heart:
-
-[1]: ./ocean.jpg
+[1]: ./voidneofetch.jpeg
 ![habibdev96][1]
 
 ## Technologies I use
