@@ -1,7 +1,7 @@
 
 ## Aspiring web developer & desktop linux enthusiast.
 
-[1]: ./voidneofetch.jpeg
+[1]: ./current-rice.png
 ![habibdev96][1]
 
 ## Technologies I use
