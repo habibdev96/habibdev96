@@ -1,6 +1,6 @@
 ## Aspiring web developer & desktop linux enthusiast.
 
-[1]: ./current-rice.png
+[1]: ./gnu.jpg
 
 ![habibdev96][1]
 
