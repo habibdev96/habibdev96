@@ -1,6 +1,6 @@
 ## Aspiring web developer & desktop linux enthusiast.
 
-[1]: ./gnu.jpg
+[1]: ./waves.jpg
 
 ![habibdev96][1]
 
