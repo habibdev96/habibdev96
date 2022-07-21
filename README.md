@@ -40,3 +40,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br />
+
+[![github streak](https://github-readme-streak-stats.herokuapp.com/?user=habibdev96&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
